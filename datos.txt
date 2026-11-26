@@ -1,0 +1,200 @@
+Mateo García
+1,78
+Sofía Rodríguez
+1,62
+Lucas Martínez
+1,85
+Valentina López
+1,59
+Santiago González
+1,74
+Isabella Pérez
+1,68
+Sebastián Sánchez
+1,81
+Camila Ramírez
+1,65
+Matías Cruz
+1,76
+Valeria Flores
+1,60
+Nicolás Gómez
+1,89
+Mariana Morales
+1,71
+Alejandro Vázquez
+1,73
+Lucía Reyes
+1,56
+Diego Jiménez
+1,82
+Victoria Torres
+1,67
+Samuel Díaz
+1,79
+Martina Gutiérrez
+1,63
+Benjamín Ruiz
+1,84
+Elena Mendoza
+1,70
+Daniel Aguilar
+1,75
+Emilia Ortiz
+1,58
+Gabriel Moreno
+1,80
+Renata Castillo
+1,66
+Joaquín Romero
+1,77
+Catalina Álvarez
+1,64
+Tomás Méndez
+1,86
+Antonella Chávez
+1,61
+Thiago Rivera
+1,72
+Paula Ramos
+1,69
+Gael Herrera
+1,83
+Sara Medina
+1,57
+Emiliano Vargas
+1,78
+Julieta Castro
+1,65
+Felipe Guzmán
+1,88
+Ximena Velázquez
+1,62
+Emmanuel Muñoz
+1,74
+Regina Rojas
+1,68
+Adrián Contreras
+1,81
+Mía Silva
+1,55
+Leonardo Luna
+1,76
+Alma Juárez
+1,63
+Rodrigo Meza
+1,85
+Zoe Delgado
+1,60
+Ian Vega
+1,79
+Amanda Fuentes
+1,67
+Andrés Espinoza
+1,73
+Natalia Carrillo
+1,64
+Bruno Campos
+1,87
+Jimena Cabrera
+1,61
+Maximiliano Ríos
+1,75
+Daniela Alvarado
+1,69
+Ángel Sandoval
+1,82
+Gabriela Trejo
+1,58
+Dante Solís
+1,77
+Andrea Ibarra
+1,66
+Marcos Domínguez
+1,80
+Carolina Cervantes
+1,62
+Simón Rosas
+1,84
+Clara Pacheco
+1,71
+Alonso Maldonado
+1,76
+Valery Zamora
+1,59
+Iker Miranda
+1,83
+Fernanda Salazar
+1,65
+Rafael Nava
+1,78
+Ariana Montes
+1,68
+Esteban Orozco
+1,89
+Bianca Castañeda
+1,63
+Gael Ponce
+1,74
+Abril Escobedo
+1,60
+Héctor Bautista
+1,81
+Salomé Camacho
+1,67
+Julián Gallegos
+1,72
+Fátima Peñaloza
+1,57
+Cristian Villalobos
+1,86
+Alexa Lozano
+1,64
+César Acosta
+1,79
+Abigail Cuevas
+1,61
+David Huerta
+1,75
+Miranda Cisneros
+1,69
+Javier León
+1,82
+Renata Tapia
+1,56
+Omar Corona
+1,77
+Allison Macías
+1,65
+Fernando Esquivel
+1,85
+María José Serrano
+1,62
+Eduardo Trujillo
+1,73
+Romina Arellano
+1,68
+Manuel Beltrán
+1,80
+Aitana Galindo
+1,60
+Ricardo Segura
+1,76
+Guadalupe Quintero
+1,63
+Jorge Palomino
+1,84
+Lía Barajas
+1,59
+Roberto Monroy
+1,78
+Pía Carmona
+1,66
+Sergio Bernal
+1,81
+Olivia Zepeda
+1,64
+Arturo Arredondo
+1,74
+Constanza Becerra
+1,67
